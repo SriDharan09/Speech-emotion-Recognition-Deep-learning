@@ -25,6 +25,12 @@ https://jupyter.org/install
 As i mentioned above there are some python libraries needed to work with SER model Like keras,Tensorflow. Refer the imported libraries in CNN Final demo file.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# NOTE:
+
+! You need to change your Directory path according to your Dataset path location on your PCs.
+! You can change the parameters that will give the results according to the paramters.
+! The file will Run in different IDEs but for presentation purpose we used Jupyter Notebook.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
