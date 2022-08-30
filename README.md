@@ -22,6 +22,10 @@ https://jupyter.org/install
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Essential Python Library
 
+As i mentioned above there are some python libraries needed to work with SER model Like keras,Tensorflow. Refer the imported libraries in CNN Final demo file.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
