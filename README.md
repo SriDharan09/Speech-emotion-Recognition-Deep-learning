@@ -1,7 +1,9 @@
 # Voice-emotion-Recognition-Deep-learning
+
 This project is realized in Python using Jupyter Notebook. You can grab the *.ipynb file here if you want to try it yourself. As a neural network framework I will be using Keras, which uses Tensorflow. Keras provides an abstraction layer to ease the use of Tensorflow.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Initially We need to Download Essesntial Dataset to work with SER.Lot of Dataset are available Here i used RAVDESS and SAVEE.
+# Initially We need to Download Essesntial Dataset to work with SER.Lot of Dataset are available Here i used RAVDESS and SAVEE.
 
 Here You can download the dataset by below link👇:
 
