@@ -27,11 +27,11 @@ As i mentioned above there are some python libraries needed to work with SER mod
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # NOTE:
 
-!You need to change your Directory path according to your Dataset path location on your PCs.
+! You need to change your Directory path according to your Dataset path location on your PCs.
 
-!You can change the parameters that will give the results according to the paramters.
+! You can change the parameters that will give the results according to the paramters.
 
-!The file will Run in different IDEs but for presentation purpose we used Jupyter Notebook.
+! The file will Run in different IDEs but for presentation purpose we used Jupyter Notebook.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
